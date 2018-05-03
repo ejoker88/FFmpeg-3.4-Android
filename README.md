@@ -11,3 +11,7 @@ If this repository helped, then please spread the word and help others.
 Video Tutorial is also available at the YouTube Link: https://youtu.be/2OGbamEjYhc
 
 Happy coding and developing Android apps!!
+
+
+# Copyright
+Copyright © 2018 Rajdeep Rajput (https://github.com/ejoker88)
