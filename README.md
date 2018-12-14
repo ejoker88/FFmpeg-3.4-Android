@@ -1,8 +1,6 @@
 # FFmpeg-3.4-Android
 
-# BEFORE YOU READ IT PLEASE NOTE: VERSIONS OF FFMPEG AND ANDROID NDK ARE VERY IMPORTANT. IF YOU USE OTHER VERSIONS THEN THIS REPOSITORY MIGHT FACE SOME ISSUES.
-
-# FFMPEG VERSION IS 3.4 AND NDK VERSION IS r16b STABLE.
+# Before you proceed please note: Versions of FFmpeg and Android NDK are very important. If you use other versions, then this repository might not work.I have used FFmpeg 3.4 and NDK r16b stable.
 
 This repository helps to compile FFmpeg 3.4 Version for Android using Android NDK Standalone Toolchain.
 
