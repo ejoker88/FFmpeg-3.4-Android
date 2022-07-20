@@ -11,8 +11,6 @@ https://github.com/ejoker88/FFmpeg-3.4-Android/wiki/Tutorial-:-FFmpeg-3.4-for-An
 
 If this repository helped, then please spread the word and help others.
 
-Video Tutorial is also available at the YouTube Link: https://youtu.be/2OGbamEjYhc
-
 Happy coding and developing Android apps!!
 
 
